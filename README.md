@@ -1,0 +1,1 @@
+# Kicad_standard_resistors
